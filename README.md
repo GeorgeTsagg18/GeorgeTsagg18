@@ -64,7 +64,4 @@ A CNN trained on the FER2013 dataset detects facial expressions in real time thr
 
 ---
 
-## 📫 Let's Work Together
 
-[![Upwork](https://img.shields.io/badge/Hire_me_on-Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0193d0fe5d3fd14798)
-[![Email](https://img.shields.io/badge/Email-georgetsag18@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:georgetsag18@gmail.com)
