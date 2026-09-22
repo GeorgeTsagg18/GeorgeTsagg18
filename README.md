@@ -14,7 +14,7 @@ I like building things that load instantly, work everywhere, and respect user pr
 
 ## 🚀 Featured Projects
 
-### [CharacterCap](https://charactercap.com) · [code](https://github.com/GeorgeTsagg18/Word-CountSite)
+### [CharacterCap](https://charactercap.com) · [code](https://github.com/GeorgeTsagg18/charactercap)
 A privacy-first word counter and text analytics tool that runs entirely in the browser.
 Real-time stats, keyword density, Flesch readability scores (English & German), social media character limits, text-to-speech, dark mode, and full EN/DE localization. Deployed on Cloudflare's edge network.
 
